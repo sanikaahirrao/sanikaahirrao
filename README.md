@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Sanika Ahirrao</span> 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌱 Learning-Web Development | Java | DSA-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌱 Learning-Web Development -blueviolet?style=for-the-badge"/>
 </p>
 
 ---
