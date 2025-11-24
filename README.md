@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Sanika Ahirrao</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Sanika Ahirrao</span> </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌱 Learning-Web Development -blueviolet?style=for-the-badge"/>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Diploma student in **Computer Technology**.
 * Currently exploring **Web Development, Java, and Data Structures & Algorithms**.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p>
   <!-- Add your links below if you want -->
